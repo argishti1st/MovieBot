@@ -3,3 +3,4 @@ config.js
 bot_video
 telegram_bot_key.txt
 images
+database.json
